@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bookmark-line</title>
+    <g id="bookmark-line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.5,4 L4.5,11 L5.5,11 L5.5,12 L4.5,12 L4.5,13 L3.5,13 L3.5,4 L4.5,4 Z M12.5,4 L12.5,13 L11.5,13 L11.5,12 L10.5,12 L10.5,11 L11.5,11 L11.5,4 L12.5,4 Z M6.5,10 L6.5,11 L5.5,11 L5.5,10 L6.5,10 Z M10.5,10 L10.5,11 L9.5,11 L9.5,10 L10.5,10 Z M7.5,9 L7.5,10 L6.5,10 L6.5,9 L7.5,9 Z M9.5,9 L9.5,10 L8.5,10 L8.5,9 L9.5,9 Z M8.5,8 L8.5,9 L7.5,9 L7.5,8 L8.5,8 Z M11.5,3 L11.5,4 L4.5,4 L4.5,3 L11.5,3 Z" fill="#000000"></path>
+    </g>
+</svg>

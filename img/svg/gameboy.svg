@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gameboy</title>
+    <g id="gameboy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,2 L3,14 L2,14 L2,14 L2,2 L2,2 L3,2 Z M14,2 L14,12 L13,12 L13,13 L12,13 L12,14 L4,14 L4,2 L14,2 Z M10,12 L8,12 L8,13 L10,13 L10,12 Z M7,9 L6,9 L6,10 L5,10 L5,11 L6,11 L6,12 L7,12 L7,11 L8,11 L8,10 L7,10 L7,9 Z M12,10 L11,10 L11,11 L12,11 L12,10 Z M13,9 L12,9 L12,10 L13,10 L13,9 Z M13,3 L5,3 L5,8 L13,8 L13,3 Z M11,4 L11,7 L7,7 L7,4 L11,4 Z" fill="#000000"></path>
+    </g>
+</svg>

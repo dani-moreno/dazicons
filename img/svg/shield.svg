@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shield</title>
+    <g id="shield" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,5.5 L4,11.5 L5,11.5 L5,12.5 L11,12.5 L11,11.5 L12,11.5 L12,5.5 L14,5.5 L14,12.5 L13,12.5 L13,13.5 L12,13.5 L12,14.5 L4,14.5 L4,13.5 L3,13.5 L3,12.5 L2,12.5 L2,5.5 L4,5.5 Z M6,6.5 L6,11.5 L5,11.5 L5,6.5 L6,6.5 Z M8,6.5 L8,11.5 L7,11.5 L7,6.5 L8,6.5 Z M10,6.5 L10,11.5 L9,11.5 L9,6.5 L10,6.5 Z M14,1.5 L14,4.5 L2,4.5 L2,1.5 L14,1.5 Z M4,2.5 L3,2.5 L3,3.5 L4,3.5 L4,2.5 Z M13,2.5 L12,2.5 L12,3.5 L13,3.5 L13,2.5 Z" fill="#000000"></path>
+    </g>
+</svg>

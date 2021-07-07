@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>speech-bubble</title>
+    <g id="speech-bubble" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon fill="#000000" points="6 15 7 15 7 14 8 14 8 13 13 13 13 12 14 12 14 11 15 11 15 4 14 4 14 3 13 3 13 2 3 2 3 3 2 3 2 4 1 4 1 11 2 11 2 12 3 12 3 13 6 13"></polygon>
+    </g>
+</svg>

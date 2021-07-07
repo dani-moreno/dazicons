@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>heart-half</title>
+    <g id="heart-half" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,3 L7,4 L9,4 L9,5 L8,5 L8,13 L9,13 L9,14 L7,14 L7,13 L6,13 L6,12 L5,12 L5,11 L4,11 L4,10 L3,10 L3,9 L2,9 L2,5 L3,5 L3,4 L4,4 L4,3 L7,3 Z M10,12 L10,13 L9,13 L9,12 L10,12 Z M11,11 L11,12 L10,12 L10,11 L11,11 Z M12,10 L12,11 L11,11 L11,10 L12,10 Z M13,9 L13,10 L12,10 L12,9 L13,9 Z M14,5 L14,9 L14,9 L13,9 L13,5 L14,5 L14,5 Z M13,4 L13,5 L12,5 L12,4 L13,4 Z M12,3 L12,4 L9,4 L9,3 L12,3 Z" fill="#000000"></path>
+    </g>
+</svg>

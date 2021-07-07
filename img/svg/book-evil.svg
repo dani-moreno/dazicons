@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>book-evil</title>
+    <g id="book-evil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,13 L11,15 L9,15 L9,13 L11,13 Z M13,13 L13,14 L12,14 L12,13 L13,13 Z M8,13 L8,14 L4,14 L4,13 L8,13 Z M14,2 L14,12 L4,12 L4,13 L3,13 L3,3 L4,3 L4,2 L14,2 Z M13,3 L4,3 L4,11 L13,11 L13,3 Z M11,4 L11,5 L12,5 L12,8 L11,8 L11,10 L10,10 L10,9 L9,9 L9,10 L8,10 L8,9 L7,9 L7,10 L6,10 L6,8 L5,8 L5,5 L6,5 L6,4 L11,4 Z M9,7 L8,7 L8,8 L9,8 L9,7 Z M8,5 L7,5 L7,6 L6,6 L6,7 L8,7 L8,5 Z M10,5 L9,5 L9,7 L11,7 L11,6 L10,6 L10,5 Z" fill="#000000"></path>
+    </g>
+</svg>

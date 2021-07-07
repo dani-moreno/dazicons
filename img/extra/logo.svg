@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <polygon id="path-1" points="22 38.3333333 22 36 24.3333333 36 24.3333333 33.6666667 26.6666667 33.6666667 26.6666667 31.3333333 29 31.3333333 29 29 31.3333333 29 31.3333333 26.6666667 33.6666667 26.6666667 33.6666667 24.3333333 36 24.3333333 36 22 38.3333333 22 38.3333333 33.6666667 50 33.6666667 50 36 47.6666667 36 47.6666667 38.3333333 45.3333333 38.3333333 45.3333333 40.6666667 43 40.6666667 43 43 40.6666667 43 40.6666667 45.3333333 38.3333333 45.3333333 38.3333333 47.6666667 36 47.6666667 36 50 33.6666667 50 33.6666667 38.3333333"></polygon>
+        <filter x="-41.1%" y="-33.9%" width="182.1%" height="182.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-72.000000, -54.000000)">
+            <g id="logo" transform="translate(72.000000, 54.000000)">
+                <path d="M23.0749668,-9.32256277e-16 L48.9250332,9.32256277e-16 C56.9487019,-5.41667744e-16 59.858278,0.8354305 62.7916113,2.40419433 C65.7249447,3.97295817 68.0270418,6.27505533 69.5958057,9.20838867 C71.1645695,12.141722 72,15.0512981 72,23.0749668 L72,48.9250332 C72,56.9487019 71.1645695,59.858278 69.5958057,62.7916113 C68.0270418,65.7249447 65.7249447,68.0270418 62.7916113,69.5958057 C59.858278,71.1645695 56.9487019,72 48.9250332,72 L23.0749668,72 C15.0512981,72 12.141722,71.1645695 9.20838867,69.5958057 C6.27505533,68.0270418 3.97295817,65.7249447 2.40419433,62.7916113 C0.8354305,59.858278 3.61111829e-16,56.9487019 -6.21504185e-16,48.9250332 L6.21504185e-16,23.0749668 C-3.61111829e-16,15.0512981 0.8354305,12.141722 2.40419433,9.20838867 C3.97295817,6.27505533 6.27505533,3.97295817 9.20838867,2.40419433 C12.141722,0.8354305 15.0512981,5.41667744e-16 23.0749668,-9.32256277e-16 Z" id="bg" fill="#343A40"></path>
+                <g id="bolt">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

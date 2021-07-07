@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ladder</title>
+    <g id="ladder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,1 L13,1 L13,0 L15,0 L15,16 L14,16 L14,15 L2,15 L2,16 L1,16 L1,0 L3,0 L3,1 Z M14,11 L2,11 L2,12 L3,12 L3,13 L13,13 L13,12 L14,12 L14,11 Z M14,7 L2,7 L2,8 L3,8 L3,9 L13,9 L13,8 L14,8 L14,7 Z M14,3 L2,3 L2,4 L3,4 L3,5 L13,5 L13,4 L14,4 L14,3 Z" fill="#000000"></path>
+    </g>
+</svg>

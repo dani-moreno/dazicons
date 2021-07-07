@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>face-neutral</title>
+    <g id="face-neutral" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,2 L10,3 L12,3 L12,4 L13,4 L13,6 L14,6 L14,10 L13,10 L13,12 L12,12 L12,13 L10,13 L10,14 L6,14 L6,13 L4,13 L4,12 L3,12 L3,10 L2,10 L2,6 L3,6 L3,4 L4,4 L4,3 L6,3 L6,2 L10,2 Z M10,10 L6,10 L6,11 L10,11 L10,10 Z M7,6 L6,6 L6,8 L7,8 L7,6 Z M10,6 L9,6 L9,8 L10,8 L10,6 Z" fill="#000000"></path>
+    </g>
+</svg>

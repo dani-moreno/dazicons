@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>staff</title>
+    <g id="staff" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,8 L7,9 L8,9 L8,9 L8,10 L8,10 L7,10 L7,10 L7,11 L7,11 L6,11 L6,12 L5,12 L5,13 L4,13 L4,14 L2,14 L2,12 L3,12 L3,11 L4,11 L4,10 L5,10 L5,10 L5,9 L5,9 L6,9 L6,8 L7,8 Z M8,4 L8,6 L9,6 L9,7 L10,7 L10,8 L12,8 L12,8 L12,9 L12,9 L9,9 L9,9 L9,8 L9,8 L8,8 L8,7 L7,7 L7,4 L8,4 Z M13,2 L13,3 L14,3 L14,6 L13,6 L13,7 L10,7 L10,6 L9,6 L9,3 L10,3 L10,2 L13,2 Z M13,5 L12,5 L12,6 L13,6 L13,5 Z M16,5 L16,6 L15,6 L15,5 L16,5 Z M12,3 L10,3 L10,5 L12,5 L12,3 Z M16,3 L16,4 L15,4 L15,3 L16,3 Z M15,1 L15,2 L14,2 L14,1 L15,1 Z M13,0 L13,1 L12,1 L12,0 L13,0 Z M11,0 L11,1 L10,1 L10,0 L11,0 Z" fill="#000000"></path>
+    </g>
+</svg>

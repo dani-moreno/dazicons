@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>boots</title>
+    <g id="boots" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7,11 L7,12 L1,12 L1,11 L7,11 Z M15,11 L15,12 L9,12 L9,11 L15,11 Z M7,4 L7,10 L1,10 L1,8 L2,8 L2,7 L3,7 L3,6 L6,6 L6,5 L3,5 L3,4 L7,4 Z M13,4 L13,5 L10,5 L10,6 L13,6 L13,7 L14,7 L14,8 L15,8 L15,10 L9,10 L9,4 L13,4 Z" fill="#000000"></path>
+    </g>
+</svg>
